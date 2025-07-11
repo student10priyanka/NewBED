@@ -1,0 +1,17 @@
+{
+  "name": "priyanka123sharma/sumpackage",
+  "version": "1.0.2",
+  "description": "\"This package does nothing\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyanka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "hbs": "^4.2.0"
+  }
+}
